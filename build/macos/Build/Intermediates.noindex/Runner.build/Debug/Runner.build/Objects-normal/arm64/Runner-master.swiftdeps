@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "b929b1f3e1a5b947fa7eec04e0273424227128c98f5e13279821ece06fcb7881"
+build_start_time: [1684675068, 496606000]
+build_end_time: [1684675073, 699715000]
+inputs:
+  "/Users/john.z/Desktop/gitHubRepos/flutter-3.0_scaffold/macos/Flutter/GeneratedPluginRegistrant.swift": [1684675058, 500973066]
+  "/Users/john.z/Desktop/gitHubRepos/flutter-3.0_scaffold/macos/Runner/AppDelegate.swift": [1684361898, 0]
+  "/Users/john.z/Desktop/gitHubRepos/flutter-3.0_scaffold/macos/Runner/MainFlutterWindow.swift": [1684361898, 0]
